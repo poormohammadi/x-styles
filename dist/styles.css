@@ -54,6 +54,11 @@ padding0 {
 .talaii {
     background: #d2ab67;
 }
-.pattern1bg{
+
+.pattern1bg {
     background-image: url("../assets/patternbg.png");
+}
+
+.cursor_pointer {
+    cursor: pointer;
 }
