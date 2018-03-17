@@ -1,0 +1,57 @@
+@import "../fonts/fonts.css";
+
+body {
+    margin: 0 !important;
+    background-color: #eaeaea;
+    overflow-x: hidden !important;
+}
+
+*:not(i) {
+    font-family: IRANSans-web;
+}
+
+[class*=col] {
+    box-sizing: border-box !important;
+}
+
+.center {
+    text-align: center;
+}
+
+.rounded {
+    border-radius: 20px;
+}
+
+.circle {
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
+
+.halfbg {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,7db9e8+100&1+0,0+100 */
+    background: -moz-linear-gradient(to bottom, rgb(33, 33, 33) 0%, rgba(125, 185, 232, 0) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(to bottom, rgb(33, 33, 33) 0%, rgba(125, 185, 232, 0) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, rgb(33, 33, 33) 0%, rgba(125, 185, 232, 0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#007db9e8', GradientType=0); /* IE6-9 */
+}
+
+.width100 {
+    width: 100%;
+}
+
+.margin0 {
+    margin: 0;
+}
+
+padding0 {
+    padding: 0;
+}
+
+.talaii-text {
+    color: #d2ab67;
+}
+
+.talaii {
+    background: #d2ab67;
+}

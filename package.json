@@ -1,0 +1,28 @@
+{
+  "name": "x-styles",
+  "version": "1.0.0",
+  "description": "This is a css framework make your styling easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poormohammadi/x-styles.git"
+  },
+  "keywords": [
+    "styles",
+    "frame",
+    "work-",
+    "persian",
+    "fonts-",
+    "common",
+    "styles"
+  ],
+  "author": "Ali Poormohammadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poormohammadi/x-styles/issues"
+  },
+  "homepage": "https://github.com/poormohammadi/x-styles#readme"
+}
