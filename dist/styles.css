@@ -2,7 +2,6 @@
 
 body {
     margin: 0 !important;
-    background-color: #eaeaea;
     overflow-x: hidden !important;
 }
 
@@ -54,4 +53,7 @@ padding0 {
 
 .talaii {
     background: #d2ab67;
+}
+.pattern1bg{
+    background-image: url("../assets/patternbg.png");
 }
