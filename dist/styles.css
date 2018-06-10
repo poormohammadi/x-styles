@@ -1,4 +1,4 @@
-@import "../fonts/fonts.css";
+@import "../fonts/iran-sans/Farsi_numerals/webFonts/css/fontiran.css";
 
 body {
     margin: 0 !important;
@@ -6,7 +6,7 @@ body {
 }
 
 *:not(i) {
-    font-family: IRANSans-web;
+    font-family: IRANSans;
 }
 
 [class*=col] {
