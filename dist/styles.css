@@ -43,17 +43,10 @@ body {
     margin: 0;
 }
 
-padding0 {
+.padding0 {
     padding: 0;
 }
 
-.talaii-text {
-    color: #d2ab67;
-}
-
-.talaii {
-    background: #d2ab67;
-}
 
 .pattern1bg {
     background-image: url("../assets/patternbg.png");
