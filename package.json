@@ -1,15 +1,38 @@
 {
-  "name": "x-styles",
-  "version": "1.2.0",
+  "_from": "x-styles@latest",
+  "_id": "x-styles@1.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-lCVFb4TLCWP5FNiitMr9JsbJ7gwGxwf5iqYmrIJ07dzI9wRP31HogPlWa4XcFvTipfxwy1uWMRNi/9OsbUa/5Q==",
+  "_location": "/x-styles",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "x-styles@latest",
+    "name": "x-styles",
+    "escapedName": "x-styles",
+    "rawSpec": "latest",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/x-styles/-/x-styles-1.2.0.tgz",
+  "_shasum": "e59f248c4478dc12ff72d035e2825cdb3cefbea2",
+  "_spec": "x-styles@latest",
+  "_where": "/Users/ali/Desktop/projects/asoo-web-search-engine",
+  "author": {
+    "name": "Ali Poormohammadi"
+  },
+  "bugs": {
+    "url": "https://github.com/poormohammadi/x-styles/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
   "description": "This is a css framework make your styling easy",
-  "main": "index.js",
-  "scripts": {
-    "test": "test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/poormohammadi/x-styles.git"
-  },
+  "homepage": "https://github.com/poormohammadi/x-styles#readme",
   "keywords": [
     "styles",
     "frame",
@@ -19,10 +42,15 @@
     "common",
     "styles"
   ],
-  "author": "Ali Poormohammadi",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/poormohammadi/x-styles/issues"
+  "main": "index.js",
+  "name": "x-styles",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poormohammadi/x-styles.git"
   },
-  "homepage": "https://github.com/poormohammadi/x-styles#readme"
+  "scripts": {
+    "test": "test"
+  },
+  "version": "1.2.1"
 }
