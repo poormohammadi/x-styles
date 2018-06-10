@@ -1,6 +1,6 @@
 {
   "name": "x-styles",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "This is a css framework make your styling easy",
   "main": "index.js",
   "scripts": {
